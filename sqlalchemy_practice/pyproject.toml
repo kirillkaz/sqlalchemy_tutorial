@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sqlalchemy-practice"
+version = "0.1.0"
+description = ""
+authors = ["kirillkaz <kirillkazazaev@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
